@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a7620bfea2928314aa4217dedbabea72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buryPrefab: {instanceID: 0}
+  - soilPrefab: {fileID: 479828443096837149, guid: f67d5bb3ea8f90642b224bdfe07c40c4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
